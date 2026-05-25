@@ -71,6 +71,6 @@ Practiced Linux command-line administration, service management, networking comm
 
 # Connect With Me
 
-LinkedIn: linkedin.com/in/tsega-abebe-29500496
+LinkedIn: linkedin.com/in/tsega-abebe-cybersecurity
 GitHub: github.com/tsega-abebe
 

@@ -1,5 +1,4 @@
-# soc-analyst-portfolio
-Hands-on SOC lab, cybersecurity projects, Linux practice, SIEM concepts, and threat detection learning portfolio.
+
 # SOC Analyst Portfolio – Tsega Abebe
 
 Welcome to my cybersecurity portfolio. This repository documents my hands-on SOC lab projects, Linux administration practice, SIEM concepts, threat detection learning, networking exercises, and cybersecurity projects.
